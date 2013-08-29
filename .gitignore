@@ -13,6 +13,9 @@ bin/
 gen/
 target/
 
+# keystore files 
+key/
+
 # Local configuration file (sdk path, etc)
 local.properties
 
